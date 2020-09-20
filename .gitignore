@@ -1,3 +1,8 @@
 .vscode/
+<<<<<<< HEAD
 neur/test.py
 neur/test.txt
+=======
+neur/outFile.txt
+neur/sentences.txt
+>>>>>>> ac03365b7b80c31a46228a8bbe2c2481ab08b071
